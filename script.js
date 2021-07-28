@@ -20,7 +20,7 @@ new Vue({
           name: "HARP Productions",
           artist: "Infinity Musics",
           cover: "https://telegra.ph/file/3330043776a2146b5e2dd.jpg",
-          source: "http://strm112.1.fm/dance_mobile_mp3?aw_0_req.gdpr=true",
+          source: "https://ais-edge08-live365-dal02.cdnstream.com/a50999?listenerId=Live365-Widget-AdBlock&aw_0_1st.playerid=Live365-Widget&aw_0_1st.skey=1627453424",
           url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
           favorited: false
         }
