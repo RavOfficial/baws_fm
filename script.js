@@ -18,9 +18,9 @@ new Vue({
       tracks: [
         {
           name: "HARP Productions",
-          artist: "Infinity Musics",
+          artist: "Baws FM",
           cover: "https://telegra.ph/file/3330043776a2146b5e2dd.jpg",
-          source: "http://stream.zeno.fm/y9he96a6t18uv",
+          source: "https://node-32.zeno.fm/608udnd7t18uv?rj-ttl=5&rj-tok=AAABevYS9kgAZKGrHTBhcOwTfA",
           url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
           favorited: false
         }
