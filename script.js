@@ -17,10 +17,18 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "HARP Productions",
-          artist: "Baws FM",
+          name: "Baws FM",
+          artist: "Now Playing",
           cover: "https://telegra.ph/file/3330043776a2146b5e2dd.jpg",
-          source: "https://node-32.zeno.fm/608udnd7t18uv?rj-ttl=5&rj-tok=AAABevYS9kgAZKGrHTBhcOwTfA",
+          source: "http://stream.zeno.fm/xd812k86t18uv",
+          url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
+          favorited: false
+        },
+        {
+          name: "Baws FM (Exlipted Radio - Sinhala)",
+          artist: "Now Playing",
+          cover: "https://telegra.ph/file/3330043776a2146b5e2dd.jpg",
+          source: "http://stream.zeno.fm/e646hfnqv38uv",
           url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
           favorited: false
         }
