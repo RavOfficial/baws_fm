@@ -19,15 +19,23 @@ new Vue({
         {
           name: "Baws FM",
           artist: "Now Playing",
-          cover: "https://telegra.ph/file/3330043776a2146b5e2dd.jpg",
+          cover: "https://telegra.ph/file/60257b3008f662304306c.jpg",
           source: "http://stream.zeno.fm/xd812k86t18uv",
+          url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
+          favorited: false
+        },
+        {
+          name: "Baws FM (English Station)",
+          artist: "Now Playing",
+          cover: "https://telegra.ph/file/19b04e42d9ade43e20e60.jpg",
+          source: "http://stream.zeno.fm/e6hhf60qv38uv",
           url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
           favorited: false
         },
         {
           name: "Baws FM (Exlipted Radio - Sinhala)",
           artist: "Now Playing",
-          cover: "https://telegra.ph/file/3330043776a2146b5e2dd.jpg",
+          cover: "https://telegra.ph/file/43667a0db9976eed0ae3e.jpg",
           source: "http://stream.zeno.fm/e646hfnqv38uv",
           url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
           favorited: false
