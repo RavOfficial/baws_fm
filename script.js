@@ -19,7 +19,7 @@ new Vue({
         {
           name: "Baws FM",
           artist: "Now Playing",
-          cover: "https://telegra.ph/file/60257b3008f662304306c.jpg",
+          cover: "assets/images/Sinhala.jpg",
           source: "http://stream.zeno.fm/xd812k86t18uv",
           url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
           favorited: false
