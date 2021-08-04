@@ -19,7 +19,7 @@ new Vue({
         {
           name: "Baws FM",
           artist: "Now Playing",
-          cover: "assets/sinhala.jpg",
+          cover: "assets/images/sinhala.jpg",
           source: "http://stream.zeno.fm/xd812k86t18uv",
           url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
           favorited: false
@@ -27,7 +27,7 @@ new Vue({
         {
           name: "Baws FM (English Station)",
           artist: "Now Playing",
-          cover: "assets/englishfm.jpg",
+          cover: "assets/images/englishfm.jpg",
           source: "http://stream.zeno.fm/e6hhf60qv38uv",
           url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
           favorited: false
@@ -35,7 +35,7 @@ new Vue({
         {
           name: "Baws FM (Exlipted Radio - Sinhala)",
           artist: "Now Playing",
-          cover: "assets/sinhala_rapfm.jpg",
+          cover: "assets/images/sinhala_rapfm.jpg",
           source: "http://stream.zeno.fm/e646hfnqv38uv",
           url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
           favorited: false
