@@ -21,7 +21,7 @@ new Vue({
           artist: "Now Playing",
           cover: "assets/images/Sinhala.jpg",
           source: "http://stream.zeno.fm/xd812k86t18uv",
-          url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
+          url: "https://bawwaofficial.pages.dev/",
           favorited: false
         },
         {
@@ -29,7 +29,7 @@ new Vue({
           artist: "Now Playing",
           cover: "assets/images/englishfm.jpg",
           source: "http://stream.zeno.fm/e6hhf60qv38uv",
-          url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
+          url: "https://bawwaofficial.pages.dev/",
           favorited: false
         },
         {
@@ -37,7 +37,7 @@ new Vue({
           artist: "Now Playing",
           cover: "assets/images/sinhala_rapfm.jpg",
           source: "http://stream.zeno.fm/e646hfnqv38uv",
-          url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
+          url: "https://bawwaofficial.pages.dev/",
           favorited: false
         },
         {
@@ -45,7 +45,7 @@ new Vue({
           artist: "Now Playing",
           cover: "assets/images/synth.jpg",
           source: "http://stream.zeno.fm/1wu5q314u68uv",
-          url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
+          url: "https://bawwaofficial.pages.dev/",
           favorited: false
         }
       ],
