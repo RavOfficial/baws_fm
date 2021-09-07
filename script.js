@@ -39,6 +39,14 @@ new Vue({
           source: "http://stream.zeno.fm/e646hfnqv38uv",
           url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
           favorited: false
+        },
+        {
+          name: "Synthwave FM",
+          artist: "Now Playing",
+          cover: "assets/images/synth.jpg",
+          source: "http://stream.zeno.fm/1wu5q314u68uv",
+          url: "https://www.youtube.com/channel/UCeeycdGiH40WiNgqcIkhzFA",
+          favorited: false
         }
       ],
       currentTrack: null,
