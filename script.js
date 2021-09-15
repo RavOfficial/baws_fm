@@ -44,7 +44,7 @@ new Vue({
           name: "Synthwave FM",
           artist: "Now Playing",
           cover: "assets/images/synth.jpg",
-          source: "http://stream.zeno.fm/1wu5q314u68uv",
+          source: "http://stream.zeno.fm/88nd9gwg168uv",
           url: "https://bawwaofficial.pages.dev/",
           favorited: false
         }
