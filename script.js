@@ -41,6 +41,22 @@ new Vue({
           favorited: false
         },
         {
+          name: "Lo-Fi Station",
+          artist: "Now Playing",
+          cover: "assets/images/lofi.jpg",
+          source: "http://stream.zeno.fm/40yctkzb468uv",
+          url: "https://bawwaofficial.pages.dev/",
+          favorited: false
+        },
+        {
+          name: "Top Tamil Hits",
+          artist: "Now Playing",
+          cover: "assets/images/tamil_hits.jpg",
+          source: "http://stream.zeno.fm/8app4cm9368uv",
+          url: "https://bawwaofficial.pages.dev/",
+          favorited: false
+        },
+        {
           name: "Synthwave FM",
           artist: "Now Playing",
           cover: "assets/images/synth.jpg",
