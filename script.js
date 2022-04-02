@@ -33,6 +33,14 @@ new Vue({
           favorited: false
         },
         {
+          name: "One World Radio (EDM)",
+          artist: "Now Playing",
+          cover: "https://cdn-profiles.tunein.com/s307749/images/logog.jpg",
+          source: "http://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3",
+          url: "https://bawwaofficial.pages.dev/",
+          favorited: false
+        },
+        {
           name: "Baws FM (Exlipted Radio - Sinhala)",
           artist: "Now Playing",
           cover: "assets/images/sinhala_rapfm.jpg",
